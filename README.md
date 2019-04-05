@@ -1,1 +1,1 @@
-# TeltoEngTranslator
+# Telugu-Seq2Seq-Stemmer
